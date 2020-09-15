@@ -1,0 +1,32 @@
+
+/*  simple Body */
+body{ font-size: 1em;
+      color: #FFFFFF;
+      font-family:   Open Sans; Helvetica;
+      background-color: #317F57;
+      margin-top:    10%;
+      margin-bottom: 10%;
+      margin-left:   3%;
+      margin-right:  3%;
+}
+
+
+
+
+
+/*   Headers  */
+.h1size{
+    font-size: 10em;
+    text-decoration: none
+   }
+
+.h2size{font-size: 3em;
+   text-decoration: none
+   }
+
+.h3size{font-size: 1.5em;
+   text-decoration: bold
+   }
+
+
+
